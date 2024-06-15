@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-image {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.girl-image {
+    height: 240px;
+    width: 240px;
+    margin: 40px;
+    margin-bottom: 25px;
+}
+
+.top-heading {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #132d84;
+    text-align: center;
+    padding: 10px;
+    margin: 8px;
+    font-weight: bold;
+    width: 300px;
+}
+
+.button {
+    font-family: Roboto;
+    font-size: 12px;
+    color: #fad693;
+    background-color: #132d84;
+    height: 30px;
+    width: 90px;
+    border-radius: 8px;
+    border-width: 0px;
+    margin-left: 120px;
+
+}
+
+.intro-text {
+    font-family: Roboto;
+    font-size: 15px;
+
+    text-align: center;
+    padding: 10px;
+    margin: 8px;
+
+    width: 300px;
+}
+
+.details-pg-image {
+    height: 240px;
+    width: 240px;
+    margin: 40px;
+}
+
+.bg-detailed-pg {
+    background-color: #ffedcb;
+
+}
+
+.girl-detailed-image {
+    height: 230px;
+    width: 230px;
+    margin: 30px;
+    margin-left: 80px;
+
+}
+
+.heading-detailed {
+    font-family: Roboto;
+    font-size: 26px;
+    color: #132d84;
+    text-align: center;
+}
+
+.detailed-card-image {
+    height: 60px;
+    width: 60px;
+}
+
+.detailed-card-heading {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #323f4b;
+    padding: 8px;
+    margin: 5px;
+    margin-bottom: 2px;
+}
+
+.detailed-card-text {
+    font-family: Roboto;
+    font-size: 12px;
+    color: #253263;
+    padding: 8px;
+    margin: 8px;
+    width: 300px;
+}
+
+.Yoga-cards {
+    background-color: #ffe2ab;
+    border-radius: 12px;
+    border-width: 0px;
+    margin: 24px;
+}
